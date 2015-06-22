@@ -10,3 +10,7 @@ Hello I'm magichim!
 ===============
 
 What's situation?
+
+===============
+
+2nd
